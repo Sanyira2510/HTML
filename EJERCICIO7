@@ -1,0 +1,15 @@
+<!DOCTYPE html> 
+<html> 
+    <head> 
+        <meta charset="UTF-8"> 
+        <title>Ejercicio 7</title>
+    </head>
+    <body>
+        <h1> foto 1 </h1>
+        <img src="FOTO1.jpg" alt="Foto 1">
+
+        <a href="foto 2" download=" ir a la pagina 2"> ir a la pagina 2</a>
+
+    </body>
+    
+</html>
